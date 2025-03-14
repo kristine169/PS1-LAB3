@@ -45,7 +45,6 @@ export function getBucketRange(
   buckets: Array<Set<Flashcard>>
 ): { minBucket: number; maxBucket: number } | undefined {
   // TODO: Implement this function
-
   throw new Error("Implement me!");
 }
 
